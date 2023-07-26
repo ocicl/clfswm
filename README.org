@@ -1,0 +1,10 @@
+* clfswm
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/clfswm/clfswm.git   |
+| commit  |   |
+| systems | clfswm |
+|---------+-------------------------------------------|
+
