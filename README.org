@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/clfswm/clfswm.git   |
-| commit  |   |
-| systems | clfswm |
-|---------+-------------------------------------------|
+3c7721d---------+-------------------------------------------|
+3c7721d source  | git:https://gitlab.common-lisp.net/clfswm/clfswm.git   |
+3c7721d commit  |   |
+3c7721d systems | clfswm |
+3c7721d---------+-------------------------------------------|
 
